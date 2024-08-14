@@ -1,7 +1,33 @@
-# Tauri + SvelteKit + TypeScript
+# ConvertAll - Convertisseur d'images multiformat
 
-This template should help get you started developing with Tauri, SvelteKit and TypeScript in Vite.
+ConvertAll est une application de bureau multiplateforme qui permet de convertir facilement des images entre différents formats.
 
-## Recommended IDE Setup
+## 🚀 Fonctionnalités principales
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+✨ Interface utilisateur intuitive
+🖼️ Prise en charge de multiples formats (jpg, png, webp, gif, tiff, bmp)
+🔄 Conversion par lots
+📊 Suivi en temps réel de la progression
+
+## 🛠️ Prérequis
+
+- [Node.js](https://nodejs.org/) (v14+)
+- [Rust](https://www.rust-lang.org/) (v1.55+)
+- [Bun](https://bun.sh/)
+
+## 📥 Installation
+
+1. Clonez le dépôt :
+   ```
+   git clone https://github.com/votre-nom-utilisateur/convertall.git
+   cd convertall
+   ```
+
+2. Installez les dépendances :
+   ```
+   bun install
+   ```
+
+## 🚀 Développement
+
+Lancez l'application en mode développement :
